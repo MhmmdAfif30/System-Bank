@@ -5,9 +5,9 @@ POST http://localhost:3000/api/v1/users
 Content-Type: application/json
 
 {
-    "name":"abyan raka",
-    "email":"abyanraka@mail.com",
-    "password": "abyanraka123"
+    "name":"muhammad afif",
+    "email":"mafif@mail.com",
+    "password": "afif123"
 }
 
 
